@@ -1,2 +1,5 @@
-# TensorFlow
-This is the [Gradient Notebooks](https://gradient.run/notebooks "Gradient Notebooks") default TensorFlow repository that will populate the recommended TensorFlow runtime when starting a new notebook.
+#Final Project
+
+Machine Learning Final Project:
+
+Utilized tensorflow, keras and Hugging Face's transformers and experimented with 3 models: bert, roberta, and gpt2 on classifying whether a prospective reddit title is controversial or not. 
